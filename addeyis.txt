@@ -1,0 +1,4 @@
+linux commandlari ile qovlug adi deyismek ucun;
+mv <evvelki ad> <yeni ad> kimi yazilir
+Meselen;yoxla1 qovlugunu yoxla10 etmek ucun
+mv yoxla1 yoxla10 yazilir
